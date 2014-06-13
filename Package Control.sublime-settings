@@ -1,0 +1,19 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"Auto Semi-Colon",
+		"BracketHighlighter",
+		"BufferScroll",
+		"Predawn",
+		"Rust",
+		"Smart Match",
+		"SublimeAStyleFormatter",
+		"SublimeLinter",
+		"Theme - Centurion",
+		"Theme - Phoenix",
+		"Theme - Soda",
+		"Trimmer"
+	]
+}
